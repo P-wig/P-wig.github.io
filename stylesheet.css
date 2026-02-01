@@ -43,6 +43,26 @@ nav a:hover {
     background-color: #34495e;
 }
 
+a:hover {
+    color: #3498db;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #2c3e50;
+    border-radius: 50%;
+    margin: 0 auto 20px auto;
+    display: block;
+    padding: 5px;
+}
+
+.project {
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid #ddd;
+}
+
 /* Main content styles */
 main {
     max-width: 800px;
